@@ -7,8 +7,7 @@
 * Nguyen Huynh Anh Phuong
 * Nguyen Minh Trang
 * Long Tran
-* Kim
-
+* Jin
 ## Note
 
 ### **FRONTEND REPOSITORY**
